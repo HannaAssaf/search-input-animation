@@ -1,4 +1,4 @@
-'use strict';
+`use strict`;
 
 const searchIcon = document.querySelector('.search-icon__wrapper');
 
